@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969417292138",
+    "firebase_url": "https://chatappreactjs.firebaseio.com",
+    "project_id": "chatappreactjs",
+    "storage_bucket": "chatappreactjs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969417292138:android:9c18a412fffbb486d0cd13",
+        "android_client_info": {
+          "package_name": "com.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969417292138-ut83o830scor3rt6rkos2snb4a7bumen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJlzNqMgbNT48-d0Ymb2dFDtAmcI15hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969417292138-ut83o830scor3rt6rkos2snb4a7bumen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
